@@ -6,6 +6,6 @@ Pixivのフォロー新着とブックマークをダウンロード
 [gallery-dl](https://github.com/mikf/gallery-dl)を導入  
 `pip install -U gallery-dl`  
   
-`dlbookmark.bat`内の`gallery-dl https://www.pixiv.net/users/userid/bookmarks/artworks`の`userid`をダウンロードしたいユーザーのidに変更  
+`dlbookmark.bat`内の`gallery-dl https://www.pixiv.net/users/[userid]/bookmarks/artworks`の`[userid]`をダウンロードしたいユーザーのidに変更  
   
 `dlpixiv.bat`を実行

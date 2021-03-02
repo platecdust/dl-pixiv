@@ -26,5 +26,5 @@ for %%f in (*.zip) do (
         cd "..\..\pixiv\bookmarks\8173183 platecdust"
     )
 )
-pause
+
 exit
