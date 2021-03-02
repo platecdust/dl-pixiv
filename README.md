@@ -11,7 +11,8 @@ Pixivのフォロー新着とブックマークをダウンロード
 + [Python](https://www.python.org/)
 + [7zip](https://sevenzip.osdn.jp/)
 + [ffmpeg](https://ffmpeg.org/)
-+ [ImageMagick](https://imagemagick.org/index.php)
++ [ImageMagick](https://imagemagick.org/index.php)  
+  
 ffmpeg、ImageMagickはパスを通す
 
 ## 使い方
